@@ -1,6 +1,6 @@
-package jp.okawa.externals;
+package js.simplexNoise;
 
-@:native("SimplexNoise")
+@:native('SimplexNoise')
 extern class SimplexNoise {
 
 	public function new():Void;
